@@ -1,0 +1,20 @@
+-objectives
+
+- Capture network traffic on a live network interface.
+- Identify and analyze common network protocols and traffic patterns.
+- Generate a packet capture file (`.pcap`) and a concise analysis report.
+
+## Tools
+
+- [Wireshark](https://www.wireshark.org/) – Free and open-source network protocol analyzer.
+
+## How to Use
+
+1. **Install Wireshark** on your computer.
+2. **Start capturing** packets on your active network interface (e.g., Ethernet or Wi-Fi).
+3. **Save the capture** as a `.pcap` file, preferably in the `captures/` directory.
+4. **Analyze** the capture in Wireshark to identify protocols and traffic types.
+5. Review the `report.md` for a summary of findings.
+
+
+

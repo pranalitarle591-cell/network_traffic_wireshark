@@ -1,0 +1,31 @@
+Wireshark Official Website & Documentation
+https://www.wireshark.org/
+Comprehensive information about Wireshark, including downloads, tutorials, and user guides.
+
+Wireshark User Guide (Official PDF)
+https://www.wireshark.org/docs/wsug_html_chunked/
+The detailed user manual covering installation, capture techniques, filtering, and analysis.
+
+Introduction to Network Protocols (Wikipedia)
+https://en.wikipedia.org/wiki/List_of_network_protocols
+Overview of common network protocols such as Ethernet, ARP, IP, TCP, UDP, HTTP, and DNS.
+
+Packet Analysis Basics
+https://www.sans.org/white-papers/33984/
+SANS Institute guide explaining fundamental packet capture and protocol analysis concepts.
+
+Understanding TCP/IP (Cisco)
+https://www.cisco.com/c/en/us/about/press/internet-protocol-journal/blogs/200404.html
+Cisco’s introduction to the TCP/IP protocol suite and its role in networking.
+
+Practical Packet Analysis (Book by Chris Sanders)
+https://nostarch.com/packetanalysis2
+A widely recommended book for learning packet capture and network troubleshooting with Wireshark.
+
+
+
+
+
+
+
+

@@ -20,5 +20,3 @@
 4. **Analyze** the capture in Wireshark to identify protocols and traffic types.
 5. Review the `report.md` for a summary of findings.
 
-## Project Structure
-
